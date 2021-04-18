@@ -6,6 +6,6 @@ This is a great file with questions, hints, answers, and even levels of proficie
 
 I skimmed through the file, and at first, I wanted to just copy/paste each question to a word doc (mundane much?), but figured, hey why not use python to parse these questions and make this into a mini assignment
 
-That's exactly what I did... Probably not the best way to parse this and of course, the end result looks tacky, but it got the job done.
+That's exactly what I did... Probably not the best way to parse this and end result looks tacky, but it got the job done.
 
 Enjoy!
